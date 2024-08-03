@@ -1,4 +1,4 @@
-InsightMax: Financial Customer Segmentation with Power BI
+**InsightMax: Financial Customer Segmentation with Power BI**
 
 
 Project Overview
