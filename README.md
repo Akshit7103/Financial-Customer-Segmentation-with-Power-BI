@@ -75,11 +75,11 @@ The models are deployed using **Streamlit**, providing an interactive web applic
 
 
 ## Usage
-1. **Load the customer data into the application.
-2. **Perform data preprocessing and feature engineering.
-3. **Apply clustering techniques to segment the customers.
-4. **Use the Decision Tree model to classify customer behaviors.
-5. **Visualize the results using Power BI dashboards.
+1. **Load the customer data into the application.**
+2. **Perform data preprocessing and feature engineering.**
+3. **Apply clustering techniques to segment the customers.**
+4. **Use the Decision Tree model to classify customer behaviors.**
+5. **Visualize the results using Power BI dashboards.**
 
 ## Files Included
 kmeans_Model.pkl: Pre-trained K-Means model.
