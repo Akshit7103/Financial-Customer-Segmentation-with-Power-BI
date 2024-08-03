@@ -1,5 +1,8 @@
 # InsightMax: Financial Customer Segmentation with Power BI
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 ## Project Overview
 
 **InsightMax** is a project aimed at enhancing targeted marketing strategies and personalized financial services recommendations through advanced customer segmentation. This project leverages various clustering techniques and a Decision Tree model to classify and analyze customer behaviors. Additionally, it integrates Power BI for comprehensive data visualization and insights.
@@ -7,18 +10,18 @@
 ![Project Overview](image.png)
 
 ## Table of Contents
-- [**Introduction**](#introduction)
-- [**Data Preprocessing**](#data-preprocessing)
-- [**Feature Engineering**](#feature-engineering)
-- [**Clustering Techniques**](#clustering-techniques)
-- [**Decision Tree Model**](#decision-tree-model)
-- [**Model Deployment**](#model-deployment)
-- [**Power BI Integration**](#power-bi-integration)
-- [**Installation**](#installation)
-- [**Usage**](#usage)
-- [**Files Included**](#files-included)
-- [**Contributing**](#contributing)
-- [**License**](#license)
+- [Introduction](#introduction)
+- [Data Preprocessing](#data-preprocessing)
+- [Feature Engineering](#feature-engineering)
+- [Clustering Techniques](#clustering-techniques)
+- [Decision Tree Model](#decision-tree-model)
+- [Model Deployment](#model-deployment)
+- [Power BI Integration](#power-bi-integration)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Files Included](#files-included)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 
@@ -69,3 +72,24 @@ The models are deployed using **Streamlit**, providing an interactive web applic
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/InsightMax.git
+
+
+## Usage
+1. **Load the customer data into the application.
+2. **Perform data preprocessing and feature engineering.
+3. **Apply clustering techniques to segment the customers.
+4. **Use the Decision Tree model to classify customer behaviors.
+5. **Visualize the results using Power BI dashboards.
+
+## Files Included
+kmeans_Model.pkl: Pre-trained K-Means model.
+final_model.sav: Pre-trained Decision Tree model.
+Customer Data.csv: Raw customer data.
+Custemer segmentation.ipynb: Jupyter notebook with data preprocessing and clustering code.
+Clustered_CustomerData.csv: Clustered customer data.
+requirements.txt: List of required Python packages.
+**Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+This project is licensed under the MIT License.
