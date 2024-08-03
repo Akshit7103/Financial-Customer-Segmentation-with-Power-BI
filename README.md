@@ -1,8 +1,6 @@
 **InsightMax: Financial Customer Segmentation with Power BI**
 
-
-**Project Overview**
-
+Project Overview
 InsightMax is a project aimed at enhancing targeted marketing strategies and personalized financial services recommendations through advanced customer segmentation. This project leverages various clustering techniques and a Decision Tree model to classify and analyze customer behaviors. Additionally, it integrates Power BI for comprehensive data visualization and insights.
 
 
@@ -87,3 +85,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 License
 This project is licensed under the MIT License.
+
