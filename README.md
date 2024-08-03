@@ -41,16 +41,10 @@ Power BI is used to create dynamic dashboards and visualizations for the segment
 
 Installation
 Clone the repository
-bash
-Copy code
 git clone https://github.com/your-username/InsightMax.git
 Install the required dependencies
-bash
-Copy code
 pip install -r requirements.txt
 Run the Streamlit application
-bash
-Copy code
 streamlit run app.py
 Usage
 Load the customer data into the application.
